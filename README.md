@@ -1,4 +1,4 @@
-# Yunpeng Gong Academic Homepage
+# Academic Homepage
 
 A lightweight, bilingual academic homepage built from the supplied CV. It uses only local HTML/CSS/JS and local images, so it does not depend on Google Fonts, external CDNs, or third-party JavaScript.
 
