@@ -32,7 +32,7 @@ If you later buy a domain, add it in **Settings → Pages → Custom domain**, t
 
 ## Privacy choices in this version
 
-The public homepage intentionally omits date of birth, birthplace, political affiliation, phone number, and the education timeline from the CV. Academic contact uses fmonkey625@gmail.com, and the homepage links to the public Google Scholar profile. If you want a public CV download, add a sanitized PDF first rather than publishing the original CV directly.
+The public homepage intentionally omits date of birth, birthplace, political affiliation, phone number, and the detailed education timeline from the CV. It does identify Yunpeng Gong as a Ph.D. Candidate at Xiamen University. Academic contact uses fmonkey625@gmail.com, and the homepage links to the public Google Scholar profile. If you want a public CV download, add a sanitized PDF first rather than publishing the original CV directly.
 
 ## Files
 
