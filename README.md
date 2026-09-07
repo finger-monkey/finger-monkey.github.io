@@ -32,7 +32,7 @@ If you later buy a domain, add it in **Settings → Pages → Custom domain**, t
 
 ## Privacy choices in this version
 
-The public homepage intentionally omits date of birth, birthplace, political affiliation, and phone number from the CV. The email address is retained for academic contact. If you want a public CV download, add a sanitized PDF first rather than publishing the original CV directly.
+The public homepage intentionally omits date of birth, birthplace, political affiliation, phone number, and the education timeline from the CV. Academic contact uses fmonkey625@gmail.com, and the homepage links to the public Google Scholar profile. If you want a public CV download, add a sanitized PDF first rather than publishing the original CV directly.
 
 ## Files
 
@@ -43,4 +43,3 @@ The public homepage intentionally omits date of birth, birthplace, political aff
 - `assets/vision-robustness.webp` — research framework figure
 - `assets/physics-ai.webp` — Physics AI research framework figure
 - `assets/industry-collab.webp` — industry-collaboration screenshots
-- `.nojekyll` — prevents unnecessary Jekyll processing on GitHub Pages
